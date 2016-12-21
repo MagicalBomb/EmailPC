@@ -1,0 +1,20 @@
+///////////////////////////////////////
+Naming rule: 
+	There is a principle that the more wider scope , the more simpler name
+
+Scope: File / Class / Function
+
+
+Module(File) Name: modulename
+Class Name: ClassName
+Argument Name : argument_name
+Function Name ： functionName
+Private Function Name ： _functionName
+
+Var of File : VARIABLE_NAME
+Var of Class :	_VariableName
+Var of function : _Variable_Name
+
+
+Section name of ini file : Config_File_Name
+Key name of ini file : key_name_of_ini_file 
